@@ -21,7 +21,7 @@ Too lazy to take notes, write down the study passage
 
 # Re[逆向工程]
 
-这部分不太会，实际需要，还是得看一下
+这部分不太会，免杀需要，还是得看一下
 
 ---
 
@@ -65,7 +65,11 @@ Too lazy to take notes, write down the study passage
 
 ### HTTP参数污染
 
-[参数污染漏洞（HPP）挖掘技巧及实战案例全汇总](https://cloud.tencent.com/developer/article/1516333)
+> [参数污染漏洞（HPP）挖掘技巧及实战案例全汇总](https://cloud.tencent.com/developer/article/1516333)
+>
+> 
+
+
 
 
 
@@ -136,6 +140,12 @@ Too lazy to take notes, write down the study passage
 
 
 > [面试必考的：并发和并行有什么区别?](https://cloud.tencent.com/developer/article/1424249)
+
+
+
+
+
+
 
 
 
@@ -229,6 +239,26 @@ star太多不好翻看，直接放这儿好管理
 
 
 
+## 有趣的网站
+
+> [example_hashes [hashcat wiki\]](https://hashcat.net/wiki/doku.php?id=example_hashes)
+>
+> Hashcat 示例哈希页面，各种各样的hash例子，包括NTLMv1/v2，NTLM，Net-NTLMv1/v2
+
+
+
+
+
+> [Happy Hues - Curated colors in context.](https://www.happyhues.co/palettes/13)
+>
+> 开发配色解决方案，色彩瞎子的救星
+
+
+
+
+
+
+
 
 
 
@@ -237,9 +267,7 @@ star太多不好翻看，直接放这儿好管理
 
 
 
-## 有趣的网站
 
-> [example_hashes [hashcat wiki\]](https://hashcat.net/wiki/doku.php?id=example_hashes)
->
-> Hashcat 示例哈希页面，各种各样的hash例子，包括NTLMv1/v2，NTLM，Net-NTLMv1/v2
+
+> 
 
