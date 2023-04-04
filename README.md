@@ -25,7 +25,7 @@ Too lazy to take notes, write down the study passage
 
 ---
 
-
+  
 
 > [王爽《汇编语言》笔记（详细)](https://blog.csdn.net/qq_39654127/article/details/88698911)
 >
@@ -261,17 +261,23 @@ star太多不好翻看，直接放这儿好管理
 
 ## 有趣的网站
 
-> [example_hashes [hashcat wiki\]](https://hashcat.net/wiki/doku.php?id=example_hashes)
+> [example_hashes hashcat wiki](https://hashcat.net/wiki/doku.php?id=example_hashes)
 >
 > Hashcat 示例哈希页面，各种各样的hash例子，包括NTLMv1/v2，NTLM，Net-NTLMv1/v2
 
 
+
+<img src="img/image-20230404185225907.png" alt="image-20230404185225907" style="zoom:50%;" />
 
 
 
 > [Happy Hues - Curated colors in context.](https://www.happyhues.co/palettes/13)
 >
 > 开发配色解决方案，色彩瞎子的救星
+
+
+
+<img src="img/image-20230404185410150.png" alt="image-20230404185410150" style="zoom: 33%;" />
 
 
 
