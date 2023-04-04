@@ -103,6 +103,24 @@ Too lazy to take notes, write down the study passage
 
 
 
+## 提权
+
+## Linux提权
+
+> Suid提权
+>
+> 可疑二进制文件查询网站，[GTFOBins](https://gtfobins.github.io/)
+>
+> <img src="img/image-20230403213525619.png" alt="image-20230403213525619" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
 
 
 ## 学习资料
@@ -112,6 +130,8 @@ Too lazy to take notes, write down the study passage
 > [Archive (3gstudent.github.io)](https://3gstudent.github.io/archive)
 >
 > 三好学生的博客，域渗透必看，来自公鸡1ight的倾力推荐
+
+
 
 
 
@@ -264,8 +284,6 @@ star太多不好翻看，直接放这儿好管理
 
 
 # CheatSheet[备忘录]
-
-
 
 
 
