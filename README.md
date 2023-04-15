@@ -13,31 +13,9 @@ Too lazy to take notes, write down the study passage
 
 
 
-
-
-
-
-
-
-# Re[逆向工程]
-
-这部分不太会，免杀需要，还是得看一下
-
----
-
-  
-
-> [王爽《汇编语言》笔记（详细)](https://blog.csdn.net/qq_39654127/article/details/88698911)
+> [CA CTF 2022: Using pentesting techniques to decrypt Chrome’s passwords - Seized (hackthebox.com)](https://www.hackthebox.com/blog/seized-ca-ctf-2022-forensics-writeup)
 >
-> 汇编基础知识
-
-
-
-> [汇编基础入门知识](https://blog.csdn.net/bytxl/article/details/47946325)
->
-> 和上面的文章一起，当逆向入门看的
-
-
+> Chrome浏览器密码解密，非本地
 
 
 
@@ -163,9 +141,9 @@ Too lazy to take notes, write down the study passage
 
 
 
-
-
-
+> [tcpdump/wireshark 抓包及分析（2019） (arthurchiao.art)](http://arthurchiao.art/blog/tcpdump-practice-zh/)
+>
+> 用tcpdump/wireshark 抓包详细分析了tcp三次握手、四次挥手的过程
 
 
 
