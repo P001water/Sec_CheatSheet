@@ -115,6 +115,14 @@ Too lazy to take notes, write down the study passage
 
 
 
+# Java反序列化
+
+> [浅析 Java 序列化和反序列化 (seebug.org)](https://paper.seebug.org/792/#_4)
+>
+> 谈的其实很深 by **gyyyy@猎户攻防实验室**
+
+
+
 # webshell
 
 ---
