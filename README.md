@@ -125,7 +125,9 @@ Too lazy to take notes, write down the study passage
 
 
 
-
+> [冰蝎v4.0传输协议详解 (qq.com)](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)
+>
+> 冰蝎作者原创，相当于冰蝎v4.0的用户手册了
 
 
 
@@ -134,12 +136,6 @@ Too lazy to take notes, write down the study passage
 
 
 # 计算机基础
-
-
-
-> [面试必考的：并发和并行有什么区别?](https://cloud.tencent.com/developer/article/1424249)
-
-
 
 > [tcpdump/wireshark 抓包及分析（2019） (arthurchiao.art)](http://arthurchiao.art/blog/tcpdump-practice-zh/)
 >
