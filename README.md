@@ -263,17 +263,13 @@ star太多不好翻看，直接放这儿好管理
 
 
 
+> [小森平的免费下载音效 (jpn.org)](https://taira-komori.jpn.org/freesoundcn.html)
+>
+> 各种音效
+
+<img src="img/image-20230425094001307.png" alt="image-20230425094001307" style="zoom: 50%;" />
 
 
 
 
-
-
-
-
-# CheatSheet[备忘录]
-
-
-
-> 
 
