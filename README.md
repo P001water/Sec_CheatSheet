@@ -5,6 +5,18 @@ Too lazy to take notes, write down the study passage
 
 
 
+# Their Blog
+
+
+
+[Decoder's Blog – IT Security Tips and Tricks](https://decoder.cloud/)  众多Potatoes的作者之一，LocalPotato的作者
+
+
+
+
+
+
+
 
 
 # CTF competition
@@ -46,6 +58,10 @@ Too lazy to take notes, write down the study passage
 > [参数污染漏洞（HPP）挖掘技巧及实战案例全汇总](https://cloud.tencent.com/developer/article/1516333)
 >
 > 
+
+
+
+
 
 
 
@@ -105,9 +121,7 @@ Too lazy to take notes, write down the study passage
 
 
 
-> [Archive (3gstudent.github.io)](https://3gstudent.github.io/archive)
->
-> 三好学生的博客，域渗透必看，来自公鸡1ight的倾力推荐
+> [Archive (3gstudent.github.io)](https://3gstudent.github.io/archive)  ——三好学生的博客，域渗透必看，来自公鸡1ight的倾力推荐
 
 
 
@@ -117,25 +131,15 @@ Too lazy to take notes, write down the study passage
 
 # Java反序列化
 
-> [浅析 Java 序列化和反序列化 (seebug.org)](https://paper.seebug.org/792/#_4)
->
-> 谈的其实很深 by **gyyyy@猎户攻防实验室**
+[浅析 Java 序列化和反序列化 (seebug.org)](https://paper.seebug.org/792/#_4)  ——谈的其实很深 by **gyyyy@猎户攻防实验室**
 
 
 
 # webshell
 
----
+> [中国特色PHP大马 | 素十八 (su18.org)](https://su18.org/post/su18.php/#一-前言) —— PHP 小马，大马，各种马和绕过检测原理
 
-> [中国特色PHP大马 | 素十八 (su18.org)](https://su18.org/post/su18.php/#一-前言)
->
-> PHP 小马，大马，各种马和绕过检测原理
-
-
-
-> [冰蝎v4.0传输协议详解 (qq.com)](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)
->
-> 冰蝎作者原创，相当于冰蝎v4.0的用户手册了
+> s[冰蝎v4.0传输协议详解 (qq.com)](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A) —— 冰蝎作者原创，相当于冰蝎v4.0的用户手册了
 
 
 
@@ -143,7 +147,7 @@ Too lazy to take notes, write down the study passage
 
 
 
-# 计算机基础
+# 网络基础
 
 > [tcpdump/wireshark 抓包及分析（2019） (arthurchiao.art)](http://arthurchiao.art/blog/tcpdump-practice-zh/)
 >
@@ -209,7 +213,7 @@ APT的攻击手法对RT而言很有借鉴意义，收录公开的APT追踪报告
 
 # Stared  Github 仓库
 
-star太多不好翻看，直接放这儿好管理
+star太多不好翻看，在这儿放点有趣的
 
 ---
 
@@ -232,42 +236,6 @@ star太多不好翻看，直接放这儿好管理
 
 
 
-
-
-
-## interesting [新鲜玩意儿]
-
-----
-
-
-
-## 有趣的网站
-
-> [example_hashes hashcat wiki](https://hashcat.net/wiki/doku.php?id=example_hashes)
->
-> Hashcat 示例哈希页面，各种各样的hash例子，包括NTLMv1/v2，NTLM，Net-NTLMv1/v2
-
-
-
-<img src="img/image-20230404185225907.png" alt="image-20230404185225907" style="zoom:50%;" />
-
-
-
-> [Happy Hues - Curated colors in context.](https://www.happyhues.co/palettes/13)
->
-> 开发配色解决方案，色彩瞎子的救星
-
-
-
-<img src="img/image-20230404185410150.png" alt="image-20230404185410150" style="zoom: 33%;" />
-
-
-
-> [小森平的免费下载音效 (jpn.org)](https://taira-komori.jpn.org/freesoundcn.html)
->
-> 各种音效
-
-<img src="img/image-20230425094001307.png" alt="image-20230425094001307" style="zoom: 50%;" />
 
 
 
