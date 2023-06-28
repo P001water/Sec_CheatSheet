@@ -9,13 +9,13 @@ Too lazy to take notes, write down the study passage
 
 
 
-[Decoder's Blog – IT Security Tips and Tricks](https://decoder.cloud/)  众多Potatoes的作者之一，LocalPotato的作者
+[Decoder's Blog – IT Security Tips and Tricks](https://decoder.cloud/)  如果你想学习Windows土豆家族，看它的blog就完了。土豆提权的历史中的重要人物
 
 
 
+[itm4n's blog ](https://itm4n.github.io/)Windows安全研究员，badpotato引用的他的blog
 
-
-
+​	
 
 
 
@@ -123,7 +123,7 @@ Too lazy to take notes, write down the study passage
 
 > [Archive (3gstudent.github.io)](https://3gstudent.github.io/archive)  ——三好学生的博客，域渗透必看，来自公鸡1ight的倾力推荐
 
-
+> [payloads tools on offsec.tools](https://offsec.tools/tag/payloads) 国外工具库
 
 
 
