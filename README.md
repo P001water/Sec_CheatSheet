@@ -19,6 +19,30 @@ Too lazy to take notes, write down the study passage
 
 
 
+
+
+# 恶意软件分析
+
+---
+
+
+
+[LOLBAS (lolbas-project.github.io)](https://lolbas-project.github.io/)
+
+Windows 可执行文件一览
+
+[GTFOBins](https://gtfobins.github.io/)
+
+Linux 可执行文件一览
+
+[Filesec.io](https://filesec.io/#)
+
+实时更新攻击者可能使用的文件后缀
+
+
+
+
+
 # CTF competition
 
 ---
@@ -111,6 +135,12 @@ Too lazy to take notes, write down the study passage
 
 
 
+## C2
+
+C2矩阵
+
+> [The C2 Matrix](https://www.thec2matrix.com/)
+
 
 
 
@@ -194,6 +224,12 @@ Too lazy to take notes, write down the study passage
 
 
 
+> [飞鸟 · 语雀 (yuque.com)](https://www.yuque.com/feiniao112)
+>
+> 安全分析专家，记载个人应急响应实战经验
+
+
+
 # APT hunter
 
 APT的攻击手法对RT而言很有借鉴意义，收录公开的APT追踪报告
@@ -231,9 +267,7 @@ star太多不好翻看，在这儿放点有趣的
 
 > [knownsec/404StarLink: 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (github.com)](https://github.com/knownsec/404StarLink)
 >
-> 知道创宇 404计划，收集优秀的安全项目，皆是利器
-
-
+> 知道创宇 404计划，收集优秀的安全项目
 
 
 
