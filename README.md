@@ -19,7 +19,7 @@ Too lazy to take notes, write down the study passage
 
 
 
-
+​	
 
 # 恶意软件分析
 
@@ -38,6 +38,16 @@ Linux 可执行文件一览
 [Filesec.io](https://filesec.io/#)
 
 实时更新攻击者可能使用的文件后缀
+
+
+
+[Docguard | Detects suspicious files!](https://app.docguard.io/examples)
+
+收集bypass AV的钓鱼样本，可以根据hash去分析平台下载样本
+
+
+
+
 
 
 
