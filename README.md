@@ -153,6 +153,10 @@ C2矩阵
 
 
 
+Cobalt Strike 用户手册
+
+> [Welcome to Cobalt Strike (helpsystems.com)](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm#_Toc65482705)
+
 
 
 
@@ -240,6 +244,16 @@ C2矩阵
 
 
 
+
+
+> [command-not-found.com](https://command-not-found.com/)
+>
+> 快速查找各个类型系统下的命令如何安装
+
+
+
+
+
 # APT hunter
 
 APT的攻击手法对RT而言很有借鉴意义，收录公开的APT追踪报告
@@ -257,11 +271,19 @@ APT的攻击手法对RT而言很有借鉴意义，收录公开的APT追踪报告
 
 
 
-# Stared  Github 仓库
+# Stared && 神器分享
 
 star太多不好翻看，在这儿放点有趣的
 
 ---
+
+## Git History
+
+非常直观的查看github，gitlab任意项目里一个文件的修改历史记录
+
+<img src="https://user-images.githubusercontent.com/1911623/54575634-9b10b000-49d3-11e9-8a19-56e40636e45d.gif" alt="demo" style="zoom:50%;" />
+
+
 
 
 
