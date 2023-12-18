@@ -91,7 +91,6 @@ Linux 可执行文件一览
 
 > [参数污染漏洞（HPP）挖掘技巧及实战案例全汇总](https://cloud.tencent.com/developer/article/1516333)
 >
-> 
 
 
 
@@ -251,6 +250,10 @@ Cobalt Strike 用户手册
 > 快速查找各个类型系统下的命令如何安装
 
 
+
+# 补丁订阅
+
+[安全通告 - 安全应急响应中心 - 海康威视 Hikvision](https://www.hikvision.com/cn/support/CybersecurityCenter/SecurityNotices/)
 
 
 
