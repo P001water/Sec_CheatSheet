@@ -49,7 +49,13 @@ Linux 可执行文件一览
 
 
 
+# EDR  对抗
 
+
+
+[Nighthawk 0.2.6 - Three Wise Monkeys - MDSec](https://www.mdsec.co.uk/2023/09/nighthawk-0-2-6-three-wise-monkeys/)
+
+夜鹰 面向客户定制武器，包括EDR扼杀工具等等
 
 
 
